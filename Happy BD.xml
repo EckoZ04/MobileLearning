@@ -35,9 +35,11 @@
         android:layout_alignParentBottom="true"
         android:layout_alignParentRight="true"
         android:layout_marginBottom="8dp"
-        android:layout_marginRight="8dp"/>
+        android:layout_marginRight="6dp"/>
 
 
 </RelativeLayout>
+
+//YEAH THIS IS A TEST
 
 //android:layout_witdth = "65dp" ...... What is in front of "=" is an attribute. What is after "=" is the value
