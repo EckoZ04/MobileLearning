@@ -66,4 +66,5 @@ public class MainActivity extends AppCompatActivity {
     //we should add somethin
     ....
     //what is going on
+    //this is in the main
 }
