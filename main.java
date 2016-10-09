@@ -2,7 +2,7 @@
  * Add your package below. Package name can be found in the project's AndroidManifest.xml file.
  * This is the package name our example uses:
  *
- * package com.example.android.justjava; 
+ * package com.example.android.justjava;
  */
 package com.example.android.justjava;
 
@@ -62,4 +62,8 @@ public class MainActivity extends AppCompatActivity {
         TextView priceTextView = (TextView) findViewById(R.id.price_text_view);
         priceTextView.setText(message);
     }
+
+    //we should add somethin
+    ....
+    //what is going on
 }
